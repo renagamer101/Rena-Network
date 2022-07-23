@@ -1,1 +1,6 @@
-
+body{
+background: url("wave.svg");
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
